@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/tests/organizer_tests[1]_tests.cmake")
+  include("C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/tests/organizer_tests[1]_tests.cmake")
+else()
+  add_test(organizer_tests_NOT_BUILT organizer_tests_NOT_BUILT)
+endif()

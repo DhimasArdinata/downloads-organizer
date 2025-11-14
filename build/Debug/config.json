@@ -1,0 +1,124 @@
+{
+  "categories": {
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp"],
+    "Documents": [
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".xls",
+      ".xlsx",
+      ".ppt",
+      ".pptx",
+      ".txt",
+      ".md"
+    ],
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz"],
+    "Disk Images": [".iso", ".img", ".vhd", ".vmdk"],
+    "Audio": [".mp3", ".wav", ".flac", ".ogg"],
+    "Video": [".mp4", ".mkv", ".avi", ".mov", ".webm"],
+    "Executables": [".exe", ".msi", ".dmg", ".deb", ".msix", ".dll"],
+    "Fonts": [".ttf", ".otf", ".woff", ".woff2"],
+    "Database": [".sql", ".db", ".sqlite", ".mdb"],
+    "Projects": [
+      ".html",
+      ".css",
+      ".js",
+      ".ts",
+      ".jsx",
+      ".tsx",
+      ".svelte",
+      ".vue",
+      ".php",
+      ".json",
+      ".xml",
+      ".yml",
+      ".c",
+      ".cpp",
+      ".h",
+      ".hpp",
+      ".cs",
+      ".java",
+      ".py",
+      ".sln",
+      ".csproj",
+      ".vcproj"
+    ]
+  },
+  "rules": [
+    {
+      "category": "Executables",
+      "priority": 1,
+      "conditions": [
+        {
+          "type": "contains_filename_pattern",
+          "values": ["setup.exe", "install.exe", "installer.exe"]
+        }
+      ]
+    },
+    {
+      "category": "Projects",
+      "priority": 2,
+      "conditions": [
+        {
+          "type": "contains_filename",
+          "values": ["package.json", "Makefile", "makefile", "index.html"]
+        }
+      ]
+    },
+    {
+      "category": "Fonts",
+      "priority": 2,
+      "conditions": [
+        {
+          "type": "contains_subdirectory_named",
+          "values": ["fonts", "font", "ttf", "otf"]
+        }
+      ]
+    },
+    {
+      "category": "Projects",
+      "priority": 3,
+      "conditions": [
+        {
+          "type": "file_category_percentage",
+          "values": ["Projects"],
+          "threshold": 0.5
+        }
+      ]
+    },
+    {
+      "category": "Projects",
+      "priority": 3,
+      "conditions": [
+        {
+          "type": "subfolder_matches_archive"
+        }
+      ]
+    },
+    {
+      "category": "Images",
+      "priority": 4,
+      "conditions": [
+        {
+          "type": "has_no_subdirectories"
+        },
+        {
+          "type": "file_category_percentage",
+          "values": ["Images"],
+          "threshold": 0.8
+        }
+      ]
+    },
+    {
+      "category": "Software",
+      "priority": 3,
+      "conditions": [
+        {
+          "type": "file_category_percentage",
+          "values": ["Executables"],
+          "threshold": 0.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/organizer_lib.dir
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/organizer.dir
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/tests/CMakeFiles/organizer_tests.dir
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/tests/CMakeFiles/RUN_TESTS.dir

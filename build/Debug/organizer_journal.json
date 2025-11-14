@@ -1,0 +1,32 @@
+[
+  {
+    "action": "MOVE",
+    "from": "C:\\Users\\ASUS\\Downloads\\CH341SER.EXE",
+    "to": "C:\\Users\\ASUS\\Downloads\\Executables\\CH341SER.EXE"
+  },
+  {
+    "action": "MOVE",
+    "from": "C:\\Users\\ASUS\\Downloads\\python-manager-25.0.msix",
+    "to": "C:\\Users\\ASUS\\Downloads\\Executables\\python-manager-25.0.msix"
+  },
+  {
+    "action": "MOVE",
+    "from": "C:\\Users\\ASUS\\Downloads\\lubuntu-24.04.3-desktop-amd64.iso",
+    "to": "C:\\Users\\ASUS\\Downloads\\Disk Images\\lubuntu-24.04.3-desktop-amd64.iso"
+  },
+  {
+    "action": "MOVE",
+    "from": "C:\\Users\\ASUS\\Downloads\\version.dll",
+    "to": "C:\\Users\\ASUS\\Downloads\\Executables\\version.dll"
+  },
+  {
+    "action": "MOVE",
+    "from": "C:\\Users\\ASUS\\Downloads\\sensor_2025-10-14_to_2025-10-17.xlsx",
+    "to": "C:\\Users\\ASUS\\Downloads\\Documents\\sensor_2025-10-14_to_2025-10-17.xlsx"
+  },
+  {
+    "action": "MOVE",
+    "from": "C:\\Users\\ASUS\\Downloads\\bearssl-0.6.tar.gz",
+    "to": "C:\\Users\\ASUS\\Downloads\\Archives\\bearssl-0.6.tar.gz"
+  }
+]

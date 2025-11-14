@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/cmake_install.cmake",
+		"C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

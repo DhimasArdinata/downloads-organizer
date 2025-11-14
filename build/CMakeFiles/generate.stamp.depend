@@ -1,0 +1,64 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindGTest.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/GoogleTest.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/CMakeLists.txt
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/4.1.2/CMakeCCompiler.cmake
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/4.1.2/CMakeRCCompiler.cmake
+C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/4.1.2/CMakeSystem.cmake
+C:/dev/vcpkg/installed/x64-windows/share/exiv2/Exiv2ConfigVersion.cmake
+C:/dev/vcpkg/installed/x64-windows/share/exiv2/exiv2Config.cmake
+C:/dev/vcpkg/installed/x64-windows/share/exiv2/exiv2Targets-debug.cmake
+C:/dev/vcpkg/installed/x64-windows/share/exiv2/exiv2Targets-release.cmake
+C:/dev/vcpkg/installed/x64-windows/share/exiv2/exiv2Targets.cmake
+C:/dev/vcpkg/installed/x64-windows/share/ftxui/ftxui-config-version.cmake
+C:/dev/vcpkg/installed/x64-windows/share/ftxui/ftxui-config.cmake
+C:/dev/vcpkg/installed/x64-windows/share/ftxui/ftxui-targets-debug.cmake
+C:/dev/vcpkg/installed/x64-windows/share/ftxui/ftxui-targets-release.cmake
+C:/dev/vcpkg/installed/x64-windows/share/ftxui/ftxui-targets.cmake
+C:/dev/vcpkg/installed/x64-windows/share/gtest/GTestConfig.cmake
+C:/dev/vcpkg/installed/x64-windows/share/gtest/GTestConfigVersion.cmake
+C:/dev/vcpkg/installed/x64-windows/share/gtest/GTestTargets-debug.cmake
+C:/dev/vcpkg/installed/x64-windows/share/gtest/GTestTargets-release.cmake
+C:/dev/vcpkg/installed/x64-windows/share/gtest/GTestTargets.cmake
+C:/dev/vcpkg/installed/x64-windows/share/nlohmann_json/nlohmann_jsonConfig.cmake
+C:/dev/vcpkg/installed/x64-windows/share/nlohmann_json/nlohmann_jsonConfigVersion.cmake
+C:/dev/vcpkg/installed/x64-windows/share/nlohmann_json/nlohmann_jsonTargets.cmake
+C:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake

@@ -1,0 +1,16 @@
+folder-organizer/
+|-- .vscode
+|-- build
+|-- CMakeLists.txt
+|-- config.json
+|-- IOManager.cpp                       # Implementation for File I/O
+|-- IOManager.hpp                       # Handles loading config, finding folders, undo
+|-- main.cpp                            # The main entry point (now very small)
+|-- organizer.log
+|-- RuleEngine.cpp                      # Implementation of the analysis engine
+|-- RuleEngine.hpp                      # The core analysis and planning logic
+|-- types.hpp                           # All our custom data structures
+|-- UI.cpp                              # Implementation of the TUI
+|-- UI.hpp                              # The entire interactive TUI
+|-- watch-tree.ps1
+

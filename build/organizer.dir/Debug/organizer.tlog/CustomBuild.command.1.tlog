@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DOCUMENTS\DHIMAS\PROJECT\FOLDER-ORGANIZER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ASUS/Documents/Dhimas/Project/folder-organizer -BC:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build --check-stamp-file C:/Users/ASUS/Documents/Dhimas/Project/folder-organizer/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,296 @@
+2025-11-11 10:02:18.3895017 | --- Organizer v2.0 Started ---
+2025-11-11 10:02:18.3934324 | Executable directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-11 10:02:18.3935488 | Current working directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-11 10:02:18.3936761 | Trying config path: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-11 10:02:18.3939197 | Found config.json at: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-11 10:02:18.3974354 | Configuration loaded successfully from: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-11 10:02:18.4070981 | Target directory: C:\Users\ASUS\Downloads
+2025-11-11 10:02:18.4072842 | Initializing UI...
+2025-11-11 10:02:18.4166707 | Initializing UI components...
+2025-11-11 10:02:18.4171790 | Starting UI event loop...
+2025-11-11 10:02:20.3478029 | Starting scan...
+2025-11-11 10:02:20.3480399 | Scanning directory for items to process...
+2025-11-11 10:02:20.3484071 | Found 9 items. Analyzing in parallel...
+2025-11-11 10:02:20.3549343 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-11 10:02:20.3550735 | Analysis complete. Found 0 actions.
+2025-11-11 10:02:20.3551411 | Scan completed. Found 0 actions.
+2025-11-11 10:02:20.3562991 | Updating UI with scan results...
+2025-11-11 10:02:20.3563703 | UI updated successfully.
+2025-11-11 14:50:26.6215288 | --- Organizer v2.0 Started ---
+2025-11-11 14:50:26.6250617 | Executable directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-11 14:50:26.6251354 | Current working directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-11 14:50:26.6252352 | Trying config path: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-11 14:50:26.6259603 | Found config.json at: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-11 14:50:26.6738204 | Configuration loaded successfully from: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-11 14:50:26.6796072 | Target directory: C:\Users\ASUS\Downloads
+2025-11-11 14:50:26.6798341 | Initializing UI...
+2025-11-11 14:50:26.6860763 | Initializing UI components...
+2025-11-11 14:50:26.6867612 | Starting UI event loop...
+2025-11-11 14:55:56.0565043 | Starting scan...
+2025-11-11 14:55:56.0721386 | Scanning directory for items to process...
+2025-11-11 14:55:56.0728690 | Found 87 items. Analyzing in parallel...
+2025-11-11 14:55:56.0887621 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-11 14:55:56.0904094 | Analysis complete. Found 78 actions.
+2025-11-11 14:55:56.0904920 | Scan completed. Found 78 actions.
+2025-11-11 14:55:56.1049496 | Updating UI with scan results...
+2025-11-11 14:55:56.1052477 | UI updated successfully.
+2025-11-11 14:56:16.8224190 | Executing plan...
+2025-11-11 14:56:16.8231973 | Moving 'C:\Users\ASUS\Downloads\10. Dhimas Ardinata - Job6PSD2.docx' -> 'C:\Users\ASUS\Downloads\Documents\10. Dhimas Ardinata - Job6PSD2.docx'
+2025-11-11 14:56:16.8259307 | Moving 'C:\Users\ASUS\Downloads\10. Dhimas Ardinata - Job5PSD2.docx' -> 'C:\Users\ASUS\Downloads\Documents\10. Dhimas Ardinata - Job5PSD2.docx'
+2025-11-11 14:56:16.8304952 | Moving 'C:\Users\ASUS\Downloads\10. Dhimas Ardinata - Job5PSD2.pdf' -> 'C:\Users\ASUS\Downloads\Documents\10. Dhimas Ardinata - Job5PSD2.pdf'
+2025-11-11 14:56:16.8325463 | Moving 'C:\Users\ASUS\Downloads\10. Dhimas Ardinata - Sistel3.docx' -> 'C:\Users\ASUS\Downloads\Documents\10. Dhimas Ardinata - Sistel3.docx'
+2025-11-11 14:56:16.8329152 | Moving 'C:\Users\ASUS\Downloads\10_Dhimas Ardinata Putra Pamungkas - Job4PSD2.pdf' -> 'C:\Users\ASUS\Downloads\Documents\10_Dhimas Ardinata Putra Pamungkas - Job4PSD2.pdf'
+2025-11-11 14:56:16.8354553 | Moving 'C:\Users\ASUS\Downloads\10_Dhimas Ardinata Putra Pamungkas - Job5PSD2.pdf' -> 'C:\Users\ASUS\Downloads\Documents\10_Dhimas Ardinata Putra Pamungkas - Job5PSD2.pdf'
+2025-11-11 14:56:16.8356283 | Moving 'C:\Users\ASUS\Downloads\10_Dhimas Ardinata Putra Pamungkas - Job5PSD2.docx' -> 'C:\Users\ASUS\Downloads\Documents\10_Dhimas Ardinata Putra Pamungkas - Job5PSD2.docx'
+2025-11-11 14:56:16.8368188 | Moving 'C:\Users\ASUS\Downloads\Advanced_IP_Scanner_2.5.4594.1.exe' -> 'C:\Users\ASUS\Downloads\Executables\Advanced_IP_Scanner_2.5.4594.1.exe'
+2025-11-11 14:56:16.8380114 | Moving 'C:\Users\ASUS\Downloads\Atomic web' -> 'C:\Users\ASUS\Downloads\Projects\Atomic web'
+2025-11-11 14:56:16.8546104 | Moving 'C:\Users\ASUS\Downloads\Atomic web.zip' -> 'C:\Users\ASUS\Downloads\Archives\Atomic web.zip'
+2025-11-11 14:56:16.8563179 | Moving 'C:\Users\ASUS\Downloads\7z2501-x64.exe' -> 'C:\Users\ASUS\Downloads\Executables\7z2501-x64.exe'
+2025-11-11 14:56:16.8565106 | Moving 'C:\Users\ASUS\Downloads\bearssl-0.6' -> 'C:\Users\ASUS\Downloads\Projects\bearssl-0.6'
+2025-11-11 14:56:16.8568872 | Moving 'C:\Users\ASUS\Downloads\Bab 6 AI Tugas 01 Simulasi Regresi Linier.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Bab 6 AI Tugas 01 Simulasi Regresi Linier.pdf'
+2025-11-11 14:56:16.8606029 | Moving 'C:\Users\ASUS\Downloads\BonjourPSSetup.exe' -> 'C:\Users\ASUS\Downloads\Executables\BonjourPSSetup.exe'
+2025-11-11 14:56:16.8647361 | Moving 'C:\Users\ASUS\Downloads\Biru Kuning Putih Modern Sidang Skripsi Presentasi (1).pdf' -> 'C:\Users\ASUS\Downloads\Documents\Biru Kuning Putih Modern Sidang Skripsi Presentasi (1).pdf'
+2025-11-11 14:56:16.8668868 | Moving 'C:\Users\ASUS\Downloads\bearssl-0.6.tar.gz' -> 'C:\Users\ASUS\Downloads\Archives\bearssl-0.6.tar.gz'
+2025-11-11 14:56:16.8673547 | Moving 'C:\Users\ASUS\Downloads\Biru Kuning Putih Modern Sidang Skripsi Presentasi.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Biru Kuning Putih Modern Sidang Skripsi Presentasi.pdf'
+2025-11-11 14:56:16.8686018 | Moving 'C:\Users\ASUS\Downloads\cmake-4.1.2-windows-x86_64.msi' -> 'C:\Users\ASUS\Downloads\Executables\cmake-4.1.2-windows-x86_64.msi'
+2025-11-11 14:56:16.8688574 | Moving 'C:\Users\ASUS\Downloads\Chapter 04 Struktur Filter edited.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Chapter 04 Struktur Filter edited.pdf'
+2025-11-11 14:56:16.8690931 | Moving 'C:\Users\ASUS\Downloads\dbeaver-ce-25.2.3-x86_64-setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\dbeaver-ce-25.2.3-x86_64-setup.exe'
+2025-11-11 14:56:16.8705946 | Moving 'C:\Users\ASUS\Downloads\Composer-Setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\Composer-Setup.exe'
+2025-11-11 14:56:16.8707621 | Moving 'C:\Users\ASUS\Downloads\diagram QPSK.docx' -> 'C:\Users\ASUS\Downloads\Documents\diagram QPSK.docx'
+2025-11-11 14:56:16.8724492 | Moving 'C:\Users\ASUS\Downloads\Chapter 05 Desain FIR.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Chapter 05 Desain FIR.pdf'
+2025-11-11 14:56:16.8732935 | Moving 'C:\Users\ASUS\Downloads\Draft Proposal TA 2.docx' -> 'C:\Users\ASUS\Downloads\Documents\Draft Proposal TA 2.docx'
+2025-11-11 14:56:16.8735764 | Moving 'C:\Users\ASUS\Downloads\Epson_L3210_Series_EM_50_Web.exe' -> 'C:\Users\ASUS\Downloads\Executables\Epson_L3210_Series_EM_50_Web.exe'
+2025-11-11 14:56:16.8851743 | Moving 'C:\Users\ASUS\Downloads\driver_booster_setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\driver_booster_setup.exe'
+2025-11-11 14:56:16.8862701 | Moving 'C:\Users\ASUS\Downloads\CH341SER.EXE' -> 'C:\Users\ASUS\Downloads\Executables\CH341SER.EXE'
+2025-11-11 14:56:16.8864897 | Moving 'C:\Users\ASUS\Downloads\ESPAsyncTCP-main.zip' -> 'C:\Users\ASUS\Downloads\Archives\ESPAsyncTCP-main.zip'
+2025-11-11 14:56:16.8868359 | Moving 'C:\Users\ASUS\Downloads\ex1.pdf' -> 'C:\Users\ASUS\Downloads\Documents\ex1.pdf'
+2025-11-11 14:56:16.8889405 | Moving 'C:\Users\ASUS\Downloads\FileZilla_3.69.3_win64_sponsored2-setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\FileZilla_3.69.3_win64_sponsored2-setup.exe'
+2025-11-11 14:56:16.8892255 | Moving 'C:\Users\ASUS\Downloads\gateway-control fix - Copy.rar' -> 'C:\Users\ASUS\Downloads\Archives\gateway-control fix - Copy.rar'
+2025-11-11 14:56:16.8940294 | Moving 'C:\Users\ASUS\Downloads\gh_2.81.0_windows_amd64.msi' -> 'C:\Users\ASUS\Downloads\Executables\gh_2.81.0_windows_amd64.msi'
+2025-11-11 14:56:16.8945907 | Moving 'C:\Users\ASUS\Downloads\Git-2.51.0.2-64-bit.exe' -> 'C:\Users\ASUS\Downloads\Executables\Git-2.51.0.2-64-bit.exe'
+2025-11-11 14:56:16.8964881 | Moving 'C:\Users\ASUS\Downloads\HeidiSQL_12.12.0.7122_Setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\HeidiSQL_12.12.0.7122_Setup.exe'
+2025-11-11 14:56:16.9136381 | Moving 'C:\Users\ASUS\Downloads\Irigasi Sawah Kendal (Platform.io)-20251102T145839Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\Irigasi Sawah Kendal (Platform.io)-20251102T145839Z-1-001.zip'
+2025-11-11 14:56:16.9153609 | Moving 'C:\Users\ASUS\Downloads\JetBrainsMono-2.304' -> 'C:\Users\ASUS\Downloads\Fonts\JetBrainsMono-2.304'
+2025-11-11 14:56:16.9170104 | Moving 'C:\Users\ASUS\Downloads\JetBrainsMono-2.304.zip' -> 'C:\Users\ASUS\Downloads\Archives\JetBrainsMono-2.304.zip'
+2025-11-11 14:56:16.9198219 | Moving 'C:\Users\ASUS\Downloads\Job 06 Implementasi FIR.docx' -> 'C:\Users\ASUS\Downloads\Documents\Job 06 Implementasi FIR.docx'
+2025-11-11 14:56:16.9199010 | Moving 'C:\Users\ASUS\Downloads\Job 06 Implementasi FIR.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Job 06 Implementasi FIR.pdf'
+2025-11-11 14:56:16.9230522 | Moving 'C:\Users\ASUS\Downloads\Job khusus 02 Pengolahan Sinyal Suara.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Job khusus 02 Pengolahan Sinyal Suara.pdf'
+2025-11-11 14:56:16.9239168 | Moving 'C:\Users\ASUS\Downloads\Kuliah.rar' -> 'C:\Users\ASUS\Downloads\Archives\Kuliah.rar'
+2025-11-11 14:56:16.9246712 | Moving 'C:\Users\ASUS\Downloads\Laporan Magang Dhimas Ardinata Putra Pamungkas (rev 3).docx' -> 'C:\Users\ASUS\Downloads\Documents\Laporan Magang Dhimas Ardinata Putra Pamungkas (rev 3).docx'
+2025-11-11 14:56:16.9248935 | Moving 'C:\Users\ASUS\Downloads\Job 07 IIR.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Job 07 IIR.pdf'
+2025-11-11 14:56:16.9274751 | Moving 'C:\Users\ASUS\Downloads\lubuntu-24.04.3-desktop-amd64.iso' -> 'C:\Users\ASUS\Downloads\Disk Images\lubuntu-24.04.3-desktop-amd64.iso'
+2025-11-11 14:56:16.9343376 | Moving 'C:\Users\ASUS\Downloads\Laporan_QPSK_Proteus_Dhimas.docx' -> 'C:\Users\ASUS\Downloads\Documents\Laporan_QPSK_Proteus_Dhimas.docx'
+2025-11-11 14:56:16.9358714 | Moving 'C:\Users\ASUS\Downloads\mariadb-11.8.3-winx64.msi' -> 'C:\Users\ASUS\Downloads\Executables\mariadb-11.8.3-winx64.msi'
+2025-11-11 14:56:16.9362175 | Moving 'C:\Users\ASUS\Downloads\Minitab.22.4.0.x64' -> 'C:\Users\ASUS\Downloads\Executables\Minitab.22.4.0.x64'
+2025-11-11 14:56:16.9371647 | Moving 'C:\Users\ASUS\Downloads\List Soal TE-4A.xlsx - Sheet1.pdf' -> 'C:\Users\ASUS\Downloads\Documents\List Soal TE-4A.xlsx - Sheet1.pdf'
+2025-11-11 14:56:16.9374110 | Moving 'C:\Users\ASUS\Downloads\MNTB2240.rar' -> 'C:\Users\ASUS\Downloads\Archives\MNTB2240.rar'
+2025-11-11 14:56:16.9397955 | Moving 'C:\Users\ASUS\Downloads\Monik Controling Salatiga (Platform.io)-20251102T145844Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\Monik Controling Salatiga (Platform.io)-20251102T145844Z-1-001.zip'
+2025-11-11 14:56:16.9406917 | Moving 'C:\Users\ASUS\Downloads\Monik Monitoring Salatiga (Platform.io)-20251102T145849Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\Monik Monitoring Salatiga (Platform.io)-20251102T145849Z-1-001.zip'
+2025-11-11 14:56:16.9432995 | Moving 'C:\Users\ASUS\Downloads\msys2-x86_64-20250830.exe' -> 'C:\Users\ASUS\Downloads\Executables\msys2-x86_64-20250830.exe'
+2025-11-11 14:56:16.9434324 | Moving 'C:\Users\ASUS\Downloads\nmap-7.98-setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\nmap-7.98-setup.exe'
+2025-11-11 14:56:16.9435130 | Moving 'C:\Users\ASUS\Downloads\Mosiban (Platform.io)-20251102T145859Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\Mosiban (Platform.io)-20251102T145859Z-1-001.zip'
+2025-11-11 14:56:16.9449967 | Moving 'C:\Users\ASUS\Downloads\node fix.rar' -> 'C:\Users\ASUS\Downloads\Archives\node fix.rar'
+2025-11-11 14:56:16.9456001 | Moving 'C:\Users\ASUS\Downloads\node-v22.20.0-x64.msi' -> 'C:\Users\ASUS\Downloads\Executables\node-v22.20.0-x64.msi'
+2025-11-11 14:56:16.9461443 | Moving 'C:\Users\ASUS\Downloads\octave-10.3.0-w64-installer.exe' -> 'C:\Users\ASUS\Downloads\Executables\octave-10.3.0-w64-installer.exe'
+2025-11-11 14:56:16.9655751 | Moving 'C:\Users\ASUS\Downloads\Packet_Tracer822_64bit_setup_signed.exe' -> 'C:\Users\ASUS\Downloads\Executables\Packet_Tracer822_64bit_setup_signed.exe'
+2025-11-11 14:56:16.9680298 | Moving 'C:\Users\ASUS\Downloads\php-8.4.14-nts-Win32-vs17-x64.zip' -> 'C:\Users\ASUS\Downloads\Archives\php-8.4.14-nts-Win32-vs17-x64.zip'
+2025-11-11 14:56:16.9682945 | Moving 'C:\Users\ASUS\Downloads\Postman (x64).exe' -> 'C:\Users\ASUS\Downloads\Executables\Postman (x64).exe'
+2025-11-11 14:56:16.9685109 | Moving 'C:\Users\ASUS\Downloads\Praktikum Regresi Linear.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Praktikum Regresi Linear.pdf'
+2025-11-11 14:56:16.9702423 | Moving 'C:\Users\ASUS\Downloads\Praktikum Uji Hipotesis.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Praktikum Uji Hipotesis.pdf'
+2025-11-11 14:56:16.9704364 | Moving 'C:\Users\ASUS\Downloads\PRTPRO90SP2.rar' -> 'C:\Users\ASUS\Downloads\Archives\PRTPRO90SP2.rar'
+2025-11-11 14:56:16.9717958 | Moving 'C:\Users\ASUS\Downloads\python-3.14.0-amd64.exe' -> 'C:\Users\ASUS\Downloads\Executables\python-3.14.0-amd64.exe'
+2025-11-11 14:56:16.9732429 | Moving 'C:\Users\ASUS\Downloads\Radio Frequency and Microwave Communication Circuits.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Radio Frequency and Microwave Communication Circuits.pdf'
+2025-11-11 14:56:16.9737346 | Moving 'C:\Users\ASUS\Downloads\RealVNC-Connect-Installer-3.2.0-Windows.exe' -> 'C:\Users\ASUS\Downloads\Executables\RealVNC-Connect-Installer-3.2.0-Windows.exe'
+2025-11-11 14:56:16.9741987 | Moving 'C:\Users\ASUS\Downloads\sensor_2025-10-14_to_2025-10-17.xlsx' -> 'C:\Users\ASUS\Downloads\Documents\sensor_2025-10-14_to_2025-10-17.xlsx'
+2025-11-11 14:56:16.9759542 | Moving 'C:\Users\ASUS\Downloads\SqlDumpSplittr.exe' -> 'C:\Users\ASUS\Downloads\Executables\SqlDumpSplittr.exe'
+2025-11-11 14:56:16.9763857 | Moving 'C:\Users\ASUS\Downloads\version.dll' -> 'C:\Users\ASUS\Downloads\Executables\version.dll'
+2025-11-11 14:56:16.9765700 | Moving 'C:\Users\ASUS\Downloads\VirtualBox-7.2.2-170484-Win.exe' -> 'C:\Users\ASUS\Downloads\Executables\VirtualBox-7.2.2-170484-Win.exe'
+2025-11-11 14:56:16.9775346 | Moving 'C:\Users\ASUS\Downloads\python-manager-25.0.msix' -> 'C:\Users\ASUS\Downloads\Executables\python-manager-25.0.msix'
+2025-11-11 14:56:17.0042066 | Moving 'C:\Users\ASUS\Downloads\VNC-Viewer-7.15.1-Windows.exe' -> 'C:\Users\ASUS\Downloads\Executables\VNC-Viewer-7.15.1-Windows.exe'
+2025-11-11 14:56:17.0062426 | Moving 'C:\Users\ASUS\Downloads\VSCodeUserSetup-x64-1.105.0.exe' -> 'C:\Users\ASUS\Downloads\Executables\VSCodeUserSetup-x64-1.105.0.exe'
+2025-11-11 14:56:17.0070011 | Moving 'C:\Users\ASUS\Downloads\vs_BuildTools.exe' -> 'C:\Users\ASUS\Downloads\Executables\vs_BuildTools.exe'
+2025-11-11 14:56:17.0086633 | Moving 'C:\Users\ASUS\Downloads\web cooling panel surya-20251102T145946Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\web cooling panel surya-20251102T145946Z-1-001.zip'
+2025-11-11 14:56:17.0097085 | Moving 'C:\Users\ASUS\Downloads\WhatsApp Installer.exe' -> 'C:\Users\ASUS\Downloads\Executables\WhatsApp Installer.exe'
+2025-11-11 14:56:17.0101849 | Moving 'C:\Users\ASUS\Downloads\WirelessLan_DCH_QualcommAtheros_Z_V12.0.0.1272_39083 (1).exe' -> 'C:\Users\ASUS\Downloads\Executables\WirelessLan_DCH_QualcommAtheros_Z_V12.0.0.1272_39083 (1).exe'
+2025-11-11 14:56:17.0121774 | Moving 'C:\Users\ASUS\Downloads\WirelessLan_DCH_QualcommAtheros_Z_V12.0.0.1272_39083.exe' -> 'C:\Users\ASUS\Downloads\Executables\WirelessLan_DCH_QualcommAtheros_Z_V12.0.0.1272_39083.exe'
+2025-11-11 14:56:17.0192548 | Journal saved with 78 actions. Use TUI to undo.
+2025-11-11 14:56:17.0195178 | Execution complete.
+2025-11-11 14:57:50.0521988 | Starting scan...
+2025-11-11 14:57:50.0524705 | Scanning directory for items to process...
+2025-11-11 14:57:50.0540269 | Found 87 items. Analyzing in parallel...
+2025-11-11 14:57:50.0719230 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-11 14:57:50.0743333 | Analysis complete. Found 78 actions.
+2025-11-11 14:57:50.0744246 | Scan completed. Found 78 actions.
+2025-11-11 14:57:50.0751467 | Updating UI with scan results...
+2025-11-11 14:57:50.0753768 | UI updated successfully.
+2025-11-11 15:06:45.8818267 | Starting scan...
+2025-11-11 15:06:45.8885472 | Scanning directory for items to process...
+2025-11-11 15:06:45.8906830 | Found 87 items. Analyzing in parallel...
+2025-11-11 15:06:45.9443974 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-11 15:06:45.9470052 | Analysis complete. Found 78 actions.
+2025-11-11 15:06:45.9471199 | Scan completed. Found 78 actions.
+2025-11-11 15:06:45.9887339 | Updating UI with scan results...
+2025-11-11 15:06:45.9898913 | UI updated successfully.
+2025-11-11 15:06:48.4792050 | Starting scan...
+2025-11-11 15:06:48.4793361 | Scanning directory for items to process...
+2025-11-11 15:06:48.4808204 | Found 87 items. Analyzing in parallel...
+2025-11-11 15:06:48.4940607 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-11 15:06:48.4948578 | Analysis complete. Found 78 actions.
+2025-11-11 15:06:48.4949340 | Scan completed. Found 78 actions.
+2025-11-11 15:06:48.4976402 | Updating UI with scan results...
+2025-11-11 15:06:48.4979085 | UI updated successfully.
+2025-11-11 15:06:51.9053109 | Starting scan...
+2025-11-11 15:06:51.9054840 | Scanning directory for items to process...
+2025-11-11 15:06:51.9092306 | Found 87 items. Analyzing in parallel...
+2025-11-11 15:06:51.9170926 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-11 15:06:51.9176224 | Analysis complete. Found 78 actions.
+2025-11-11 15:06:51.9177159 | Scan completed. Found 78 actions.
+2025-11-11 15:06:51.9185221 | Updating UI with scan results...
+2025-11-11 15:06:51.9187854 | UI updated successfully.
+2025-11-11 15:06:52.8249960 | Starting scan...
+2025-11-11 15:06:52.8251714 | Scanning directory for items to process...
+2025-11-11 15:06:52.8288147 | Found 87 items. Analyzing in parallel...
+2025-11-11 15:06:52.8332926 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-11 15:06:52.8337692 | Analysis complete. Found 78 actions.
+2025-11-11 15:06:52.8338405 | Scan completed. Found 78 actions.
+2025-11-11 15:06:52.8426080 | Updating UI with scan results...
+2025-11-11 15:06:52.8429287 | UI updated successfully.
+2025-11-11 15:06:55.7518401 | Executing plan...
+2025-11-11 15:06:55.7692324 | Moving 'C:\Users\ASUS\Downloads\10. Dhimas Ardinata - Job5PSD2.docx' -> 'C:\Users\ASUS\Downloads\Documents\10. Dhimas Ardinata - Job5PSD2.docx'
+2025-11-11 15:06:55.7716911 | Moving 'C:\Users\ASUS\Downloads\10. Dhimas Ardinata - Sistel3.docx' -> 'C:\Users\ASUS\Downloads\Documents\10. Dhimas Ardinata - Sistel3.docx'
+2025-11-11 15:06:55.7720938 | Moving 'C:\Users\ASUS\Downloads\10. Dhimas Ardinata - Job5PSD2.pdf' -> 'C:\Users\ASUS\Downloads\Documents\10. Dhimas Ardinata - Job5PSD2.pdf'
+2025-11-11 15:06:55.7730774 | Moving 'C:\Users\ASUS\Downloads\10. Dhimas Ardinata - Job6PSD2.docx' -> 'C:\Users\ASUS\Downloads\Documents\10. Dhimas Ardinata - Job6PSD2.docx'
+2025-11-11 15:06:55.7743984 | Moving 'C:\Users\ASUS\Downloads\10_Dhimas Ardinata Putra Pamungkas - Job5PSD2.docx' -> 'C:\Users\ASUS\Downloads\Documents\10_Dhimas Ardinata Putra Pamungkas - Job5PSD2.docx'
+2025-11-11 15:06:55.7760174 | Moving 'C:\Users\ASUS\Downloads\10_Dhimas Ardinata Putra Pamungkas - Job5PSD2.pdf' -> 'C:\Users\ASUS\Downloads\Documents\10_Dhimas Ardinata Putra Pamungkas - Job5PSD2.pdf'
+2025-11-11 15:06:55.7762778 | Moving 'C:\Users\ASUS\Downloads\7z2501-x64.exe' -> 'C:\Users\ASUS\Downloads\Executables\7z2501-x64.exe'
+2025-11-11 15:06:55.7928707 | Moving 'C:\Users\ASUS\Downloads\Atomic web' -> 'C:\Users\ASUS\Downloads\Projects\Atomic web'
+2025-11-11 15:06:55.7983305 | Moving 'C:\Users\ASUS\Downloads\bearssl-0.6.tar.gz' -> 'C:\Users\ASUS\Downloads\Archives\bearssl-0.6.tar.gz'
+2025-11-11 15:06:55.8308763 | Moving 'C:\Users\ASUS\Downloads\CH341SER.EXE' -> 'C:\Users\ASUS\Downloads\Executables\CH341SER.EXE'
+2025-11-11 15:06:55.8311837 | Moving 'C:\Users\ASUS\Downloads\bearssl-0.6' -> 'C:\Users\ASUS\Downloads\Projects\bearssl-0.6'
+2025-11-11 15:06:55.8316761 | Moving 'C:\Users\ASUS\Downloads\Biru Kuning Putih Modern Sidang Skripsi Presentasi (1).pdf' -> 'C:\Users\ASUS\Downloads\Documents\Biru Kuning Putih Modern Sidang Skripsi Presentasi (1).pdf'
+2025-11-11 15:06:55.8320589 | Moving 'C:\Users\ASUS\Downloads\Chapter 04 Struktur Filter edited.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Chapter 04 Struktur Filter edited.pdf'
+2025-11-11 15:06:55.8345968 | Moving 'C:\Users\ASUS\Downloads\BonjourPSSetup.exe' -> 'C:\Users\ASUS\Downloads\Executables\BonjourPSSetup.exe'
+2025-11-11 15:06:55.8351255 | Moving 'C:\Users\ASUS\Downloads\Atomic web.zip' -> 'C:\Users\ASUS\Downloads\Archives\Atomic web.zip'
+2025-11-11 15:06:55.8394601 | Moving 'C:\Users\ASUS\Downloads\10_Dhimas Ardinata Putra Pamungkas - Job4PSD2.pdf' -> 'C:\Users\ASUS\Downloads\Documents\10_Dhimas Ardinata Putra Pamungkas - Job4PSD2.pdf'
+2025-11-11 15:06:55.8395459 | Moving 'C:\Users\ASUS\Downloads\Composer-Setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\Composer-Setup.exe'
+2025-11-11 15:06:55.8397263 | Moving 'C:\Users\ASUS\Downloads\Biru Kuning Putih Modern Sidang Skripsi Presentasi.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Biru Kuning Putih Modern Sidang Skripsi Presentasi.pdf'
+2025-11-11 15:06:55.8413562 | Moving 'C:\Users\ASUS\Downloads\Advanced_IP_Scanner_2.5.4594.1.exe' -> 'C:\Users\ASUS\Downloads\Executables\Advanced_IP_Scanner_2.5.4594.1.exe'
+2025-11-11 15:06:55.8416386 | Moving 'C:\Users\ASUS\Downloads\Chapter 05 Desain FIR.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Chapter 05 Desain FIR.pdf'
+2025-11-11 15:06:55.8419844 | Moving 'C:\Users\ASUS\Downloads\cmake-4.1.2-windows-x86_64.msi' -> 'C:\Users\ASUS\Downloads\Executables\cmake-4.1.2-windows-x86_64.msi'
+2025-11-11 15:06:55.8421579 | Moving 'C:\Users\ASUS\Downloads\dbeaver-ce-25.2.3-x86_64-setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\dbeaver-ce-25.2.3-x86_64-setup.exe'
+2025-11-11 15:06:55.8456422 | Moving 'C:\Users\ASUS\Downloads\Draft Proposal TA 2.docx' -> 'C:\Users\ASUS\Downloads\Documents\Draft Proposal TA 2.docx'
+2025-11-11 15:06:55.8472051 | Moving 'C:\Users\ASUS\Downloads\driver_booster_setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\driver_booster_setup.exe'
+2025-11-11 15:06:55.8487092 | Moving 'C:\Users\ASUS\Downloads\ESPAsyncTCP-main.zip' -> 'C:\Users\ASUS\Downloads\Archives\ESPAsyncTCP-main.zip'
+2025-11-11 15:06:55.8503425 | Moving 'C:\Users\ASUS\Downloads\Epson_L3210_Series_EM_50_Web.exe' -> 'C:\Users\ASUS\Downloads\Executables\Epson_L3210_Series_EM_50_Web.exe'
+2025-11-11 15:06:55.8507800 | Moving 'C:\Users\ASUS\Downloads\ex1.pdf' -> 'C:\Users\ASUS\Downloads\Documents\ex1.pdf'
+2025-11-11 15:06:55.8522853 | Moving 'C:\Users\ASUS\Downloads\FileZilla_3.69.3_win64_sponsored2-setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\FileZilla_3.69.3_win64_sponsored2-setup.exe'
+2025-11-11 15:06:55.8526496 | Moving 'C:\Users\ASUS\Downloads\Bab 6 AI Tugas 01 Simulasi Regresi Linier.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Bab 6 AI Tugas 01 Simulasi Regresi Linier.pdf'
+2025-11-11 15:06:55.8721650 | Moving 'C:\Users\ASUS\Downloads\gateway-control fix - Copy.rar' -> 'C:\Users\ASUS\Downloads\Archives\gateway-control fix - Copy.rar'
+2025-11-11 15:06:55.8849244 | Moving 'C:\Users\ASUS\Downloads\gh_2.81.0_windows_amd64.msi' -> 'C:\Users\ASUS\Downloads\Executables\gh_2.81.0_windows_amd64.msi'
+2025-11-11 15:06:55.8867789 | Moving 'C:\Users\ASUS\Downloads\HeidiSQL_12.12.0.7122_Setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\HeidiSQL_12.12.0.7122_Setup.exe'
+2025-11-11 15:06:55.8874764 | Moving 'C:\Users\ASUS\Downloads\Git-2.51.0.2-64-bit.exe' -> 'C:\Users\ASUS\Downloads\Executables\Git-2.51.0.2-64-bit.exe'
+2025-11-11 15:06:55.8886929 | Moving 'C:\Users\ASUS\Downloads\Irigasi Sawah Kendal (Platform.io)-20251102T145839Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\Irigasi Sawah Kendal (Platform.io)-20251102T145839Z-1-001.zip'
+2025-11-11 15:06:55.8951331 | Moving 'C:\Users\ASUS\Downloads\JetBrainsMono-2.304.zip' -> 'C:\Users\ASUS\Downloads\Archives\JetBrainsMono-2.304.zip'
+2025-11-11 15:06:55.8965996 | Moving 'C:\Users\ASUS\Downloads\Job 06 Implementasi FIR.docx' -> 'C:\Users\ASUS\Downloads\Documents\Job 06 Implementasi FIR.docx'
+2025-11-11 15:06:55.9023626 | Moving 'C:\Users\ASUS\Downloads\Job 07 IIR.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Job 07 IIR.pdf'
+2025-11-11 15:06:55.9025732 | Moving 'C:\Users\ASUS\Downloads\Job khusus 02 Pengolahan Sinyal Suara.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Job khusus 02 Pengolahan Sinyal Suara.pdf'
+2025-11-11 15:06:55.9048256 | Moving 'C:\Users\ASUS\Downloads\JetBrainsMono-2.304' -> 'C:\Users\ASUS\Downloads\Fonts\JetBrainsMono-2.304'
+2025-11-11 15:06:55.9061167 | Moving 'C:\Users\ASUS\Downloads\Job 06 Implementasi FIR.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Job 06 Implementasi FIR.pdf'
+2025-11-11 15:06:55.9082622 | Moving 'C:\Users\ASUS\Downloads\Kuliah.rar' -> 'C:\Users\ASUS\Downloads\Archives\Kuliah.rar'
+2025-11-11 15:06:55.9124048 | Moving 'C:\Users\ASUS\Downloads\Laporan_QPSK_Proteus_Dhimas.docx' -> 'C:\Users\ASUS\Downloads\Documents\Laporan_QPSK_Proteus_Dhimas.docx'
+2025-11-11 15:06:55.9135423 | Moving 'C:\Users\ASUS\Downloads\List Soal TE-4A.xlsx - Sheet1.pdf' -> 'C:\Users\ASUS\Downloads\Documents\List Soal TE-4A.xlsx - Sheet1.pdf'
+2025-11-11 15:06:55.9138230 | Moving 'C:\Users\ASUS\Downloads\lubuntu-24.04.3-desktop-amd64.iso' -> 'C:\Users\ASUS\Downloads\Disk Images\lubuntu-24.04.3-desktop-amd64.iso'
+2025-11-11 15:06:55.9140131 | Moving 'C:\Users\ASUS\Downloads\Laporan Magang Dhimas Ardinata Putra Pamungkas (rev 3).docx' -> 'C:\Users\ASUS\Downloads\Documents\Laporan Magang Dhimas Ardinata Putra Pamungkas (rev 3).docx'
+2025-11-11 15:06:55.9174499 | Moving 'C:\Users\ASUS\Downloads\mariadb-11.8.3-winx64.msi' -> 'C:\Users\ASUS\Downloads\Executables\mariadb-11.8.3-winx64.msi'
+2025-11-11 15:06:55.9179278 | Moving 'C:\Users\ASUS\Downloads\MNTB2240.rar' -> 'C:\Users\ASUS\Downloads\Archives\MNTB2240.rar'
+2025-11-11 15:06:55.9184016 | Moving 'C:\Users\ASUS\Downloads\Monik Controling Salatiga (Platform.io)-20251102T145844Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\Monik Controling Salatiga (Platform.io)-20251102T145844Z-1-001.zip'
+2025-11-11 15:06:56.1102058 | Moving 'C:\Users\ASUS\Downloads\diagram QPSK.docx' -> 'C:\Users\ASUS\Downloads\Documents\diagram QPSK.docx'
+2025-11-11 15:06:56.1112808 | Moving 'C:\Users\ASUS\Downloads\msys2-x86_64-20250830.exe' -> 'C:\Users\ASUS\Downloads\Executables\msys2-x86_64-20250830.exe'
+2025-11-11 15:06:56.1225515 | Moving 'C:\Users\ASUS\Downloads\Monik Monitoring Salatiga (Platform.io)-20251102T145849Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\Monik Monitoring Salatiga (Platform.io)-20251102T145849Z-1-001.zip'
+2025-11-11 15:06:56.1267486 | Moving 'C:\Users\ASUS\Downloads\Minitab.22.4.0.x64' -> 'C:\Users\ASUS\Downloads\Executables\Minitab.22.4.0.x64'
+2025-11-11 15:06:56.1272190 | Moving 'C:\Users\ASUS\Downloads\nmap-7.98-setup.exe' -> 'C:\Users\ASUS\Downloads\Executables\nmap-7.98-setup.exe'
+2025-11-11 15:06:56.1286887 | Moving 'C:\Users\ASUS\Downloads\Mosiban (Platform.io)-20251102T145859Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\Mosiban (Platform.io)-20251102T145859Z-1-001.zip'
+2025-11-11 15:06:56.1297891 | Moving 'C:\Users\ASUS\Downloads\node fix.rar' -> 'C:\Users\ASUS\Downloads\Archives\node fix.rar'
+2025-11-11 15:06:56.1304392 | Moving 'C:\Users\ASUS\Downloads\node-v22.20.0-x64.msi' -> 'C:\Users\ASUS\Downloads\Executables\node-v22.20.0-x64.msi'
+2025-11-11 15:06:56.1311469 | Moving 'C:\Users\ASUS\Downloads\octave-10.3.0-w64-installer.exe' -> 'C:\Users\ASUS\Downloads\Executables\octave-10.3.0-w64-installer.exe'
+2025-11-11 15:06:56.1365575 | Moving 'C:\Users\ASUS\Downloads\Packet_Tracer822_64bit_setup_signed.exe' -> 'C:\Users\ASUS\Downloads\Executables\Packet_Tracer822_64bit_setup_signed.exe'
+2025-11-11 15:06:56.1373371 | Moving 'C:\Users\ASUS\Downloads\Postman (x64).exe' -> 'C:\Users\ASUS\Downloads\Executables\Postman (x64).exe'
+2025-11-11 15:06:56.2814314 | Moving 'C:\Users\ASUS\Downloads\php-8.4.14-nts-Win32-vs17-x64.zip' -> 'C:\Users\ASUS\Downloads\Archives\php-8.4.14-nts-Win32-vs17-x64.zip'
+2025-11-11 15:06:56.2820068 | Moving 'C:\Users\ASUS\Downloads\Praktikum Regresi Linear.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Praktikum Regresi Linear.pdf'
+2025-11-11 15:06:56.2833186 | Moving 'C:\Users\ASUS\Downloads\Praktikum Uji Hipotesis.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Praktikum Uji Hipotesis.pdf'
+2025-11-11 15:06:56.2838281 | Moving 'C:\Users\ASUS\Downloads\PRTPRO90SP2.rar' -> 'C:\Users\ASUS\Downloads\Archives\PRTPRO90SP2.rar'
+2025-11-11 15:06:56.2980069 | Moving 'C:\Users\ASUS\Downloads\python-manager-25.0.msix' -> 'C:\Users\ASUS\Downloads\Executables\python-manager-25.0.msix'
+2025-11-11 15:06:56.2992936 | Moving 'C:\Users\ASUS\Downloads\Radio Frequency and Microwave Communication Circuits.pdf' -> 'C:\Users\ASUS\Downloads\Documents\Radio Frequency and Microwave Communication Circuits.pdf'
+2025-11-11 15:06:56.3102042 | Moving 'C:\Users\ASUS\Downloads\sensor_2025-10-14_to_2025-10-17.xlsx' -> 'C:\Users\ASUS\Downloads\Documents\sensor_2025-10-14_to_2025-10-17.xlsx'
+2025-11-11 15:06:56.3103337 | Moving 'C:\Users\ASUS\Downloads\SqlDumpSplittr.exe' -> 'C:\Users\ASUS\Downloads\Executables\SqlDumpSplittr.exe'
+2025-11-11 15:06:56.3115974 | Moving 'C:\Users\ASUS\Downloads\version.dll' -> 'C:\Users\ASUS\Downloads\Executables\version.dll'
+2025-11-11 15:06:56.3125105 | Moving 'C:\Users\ASUS\Downloads\RealVNC-Connect-Installer-3.2.0-Windows.exe' -> 'C:\Users\ASUS\Downloads\Executables\RealVNC-Connect-Installer-3.2.0-Windows.exe'
+2025-11-11 15:06:56.3126843 | Moving 'C:\Users\ASUS\Downloads\VirtualBox-7.2.2-170484-Win.exe' -> 'C:\Users\ASUS\Downloads\Executables\VirtualBox-7.2.2-170484-Win.exe'
+2025-11-11 15:06:56.3132873 | Moving 'C:\Users\ASUS\Downloads\python-3.14.0-amd64.exe' -> 'C:\Users\ASUS\Downloads\Executables\python-3.14.0-amd64.exe'
+2025-11-11 15:06:56.3331560 | Moving 'C:\Users\ASUS\Downloads\VNC-Viewer-7.15.1-Windows.exe' -> 'C:\Users\ASUS\Downloads\Executables\VNC-Viewer-7.15.1-Windows.exe'
+2025-11-11 15:06:56.3340276 | Moving 'C:\Users\ASUS\Downloads\VSCodeUserSetup-x64-1.105.0.exe' -> 'C:\Users\ASUS\Downloads\Executables\VSCodeUserSetup-x64-1.105.0.exe'
+2025-11-11 15:06:56.3372534 | Moving 'C:\Users\ASUS\Downloads\vs_BuildTools.exe' -> 'C:\Users\ASUS\Downloads\Executables\vs_BuildTools.exe'
+2025-11-11 15:06:56.3375226 | Moving 'C:\Users\ASUS\Downloads\web cooling panel surya-20251102T145946Z-1-001.zip' -> 'C:\Users\ASUS\Downloads\Archives\web cooling panel surya-20251102T145946Z-1-001.zip'
+2025-11-11 15:06:56.5432094 | Moving 'C:\Users\ASUS\Downloads\WhatsApp Installer.exe' -> 'C:\Users\ASUS\Downloads\Executables\WhatsApp Installer.exe'
+2025-11-11 15:06:56.5436218 | Moving 'C:\Users\ASUS\Downloads\WirelessLan_DCH_QualcommAtheros_Z_V12.0.0.1272_39083 (1).exe' -> 'C:\Users\ASUS\Downloads\Executables\WirelessLan_DCH_QualcommAtheros_Z_V12.0.0.1272_39083 (1).exe'
+2025-11-11 15:06:56.5456836 | Moving 'C:\Users\ASUS\Downloads\WirelessLan_DCH_QualcommAtheros_Z_V12.0.0.1272_39083.exe' -> 'C:\Users\ASUS\Downloads\Executables\WirelessLan_DCH_QualcommAtheros_Z_V12.0.0.1272_39083.exe'
+2025-11-11 15:06:56.6019940 | Journal saved with 78 actions. Use TUI to undo.
+2025-11-11 15:06:56.6022384 | Execution complete.
+2025-11-12 02:42:34.3028732 | --- Organizer v2.0 Started ---
+2025-11-12 02:42:34.3074615 | Executable directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-12 02:42:34.3103001 | Current working directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-12 02:42:34.3104514 | Trying config path: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-12 02:42:34.3106836 | Found config.json at: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-12 02:42:34.3115280 | Configuration loaded successfully from: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-12 02:42:34.3245557 | Target directory: C:\Users\ASUS\Downloads
+2025-11-12 02:42:34.3247342 | Initializing UI...
+2025-11-12 02:42:34.3369319 | Initializing UI components...
+2025-11-12 02:42:34.3389072 | Starting UI event loop...
+2025-11-12 02:42:36.1432051 | Starting scan...
+2025-11-12 02:42:36.1435003 | Scanning directory for items to process...
+2025-11-12 02:42:36.1445370 | Found 9 items. Analyzing in parallel...
+2025-11-12 02:42:36.1525664 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-12 02:42:36.1526929 | Analysis complete. Found 0 actions.
+2025-11-12 02:42:36.1527546 | Scan completed. Found 0 actions.
+2025-11-12 02:42:36.1587086 | Updating UI with scan results...
+2025-11-12 02:42:36.1588160 | UI updated successfully.
+2025-11-12 22:36:08.7432873 | --- Organizer v2.0 Started ---
+2025-11-12 22:36:08.7439161 | Executable directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-12 22:36:08.7439867 | Current working directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-12 22:36:08.7440624 | Trying config path: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-12 22:36:08.7442224 | Found config.json at: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-12 22:36:08.7449961 | Configuration loaded successfully from: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-12 22:36:08.7511127 | Target directory: C:\Users\ASUS\Downloads
+2025-11-12 22:36:08.7512888 | Initializing UI...
+2025-11-12 22:36:08.7563216 | Initializing UI components...
+2025-11-12 22:36:08.7565414 | Starting UI event loop...
+2025-11-12 22:36:09.7251970 | Starting scan...
+2025-11-12 22:36:09.7253829 | Scanning directory for items to process...
+2025-11-12 22:36:09.7258299 | Found 9 items. Analyzing in parallel...
+2025-11-12 22:36:09.9094298 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-12 22:36:09.9096336 | Analysis complete. Found 0 actions.
+2025-11-12 22:36:09.9097153 | Scan completed. Found 0 actions.
+2025-11-12 22:36:09.9174565 | Updating UI with scan results...
+2025-11-12 22:36:09.9175933 | UI updated successfully.
+2025-11-12 22:36:13.4006970 | UI event loop exited normally.
+2025-11-12 22:36:13.4008360 | --- Organizer Exited Normally ---
+2025-11-13 02:45:52.4082729 | --- Organizer v2.0 Started ---
+2025-11-13 02:45:52.4091360 | Executable directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-13 02:45:52.4092129 | Current working directory: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release
+2025-11-13 02:45:52.4092924 | Trying config path: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-13 02:45:52.4094723 | Found config.json at: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-13 02:45:52.4625436 | Configuration loaded successfully from: C:\Users\ASUS\Documents\Dhimas\Project\folder-organizer\build\Release\config.json
+2025-11-13 02:45:52.4701275 | Target directory: C:\Users\ASUS\Downloads
+2025-11-13 02:45:52.4703126 | Initializing UI...
+2025-11-13 02:45:52.4861546 | Initializing UI components...
+2025-11-13 02:45:52.4863759 | Starting UI event loop...
+2025-11-13 02:45:53.4259458 | Starting scan...
+2025-11-13 02:45:53.4261460 | Scanning directory for items to process...
+2025-11-13 02:45:53.4265705 | Found 9 items. Analyzing in parallel...
+2025-11-13 02:45:53.4355127 | Warning: Filesystem error processing '': directory_iterator::directory_iterator: The system cannot find the file specified.: "". Skipping.
+2025-11-13 02:45:53.4356579 | Analysis complete. Found 0 actions.
+2025-11-13 02:45:53.4357204 | Scan completed. Found 0 actions.
+2025-11-13 02:45:53.4360664 | Updating UI with scan results...
+2025-11-13 02:45:53.4361318 | UI updated successfully.
+2025-11-13 02:45:56.3322605 | UI event loop exited normally.
+2025-11-13 02:45:56.3324053 | --- Organizer Exited Normally ---
